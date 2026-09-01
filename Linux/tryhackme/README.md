@@ -10,9 +10,7 @@ Each room may contain:
 
 - Notes
 - Screenshots
-- Task write-ups
-- Personal explanations
-- Lessons learned
+
 
 ---
 
@@ -21,7 +19,7 @@ Each room may contain:
 | Room | Status |
 |------|--------|
 | Linux Fundamentals Part 1 | ✅ |
-| Linux Fundamentals Part 2 | ⬜ |
+| Linux Fundamentals Part 2 | ✅ |
 | Linux Fundamentals Part 3 | ⬜ |
 
 ---
