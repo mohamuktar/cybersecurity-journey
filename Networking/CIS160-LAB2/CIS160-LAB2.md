@@ -1,7 +1,3 @@
-Here is a short Markdown file summarizing what you completed in Lab 2. Copy it into a file named `Lab2_Wireshark.md`.
-
-Writing
-
 # Lab 2 – Use Wireshark to Examine Ethernet Frames
 
 ## Objective
@@ -17,6 +13,8 @@ To examine Ethernet II frame headers and use Wireshark to capture and analyze lo
 - Used ping to test connectivity to the default gateway and `www.cisco.com`.
 - Compared MAC and IP addresses for local and remote traffic.
 - Saved a packet capture and generated SHA-256 and MD5 hashes to verify file integrity.
+
+![alt text](20261005_160522.jpg)
 
 ## Key Findings
 
