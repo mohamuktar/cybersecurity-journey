@@ -32,5 +32,3 @@ After making the correction, I successfully pinged between PC2 and PC4, confirmi
 ## Conclusion
 
 This lab helped me practice using ping and traceroute to identify network connectivity problems. I learned how incorrect router IP addresses and IPv6 default gateways can prevent devices from communicating. I also gained experience inspecting router interfaces and correcting network configurations to restore connectivity.
-
-Add the final connectivity test results
